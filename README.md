@@ -88,3 +88,7 @@
 #### git工作流
 ![alt Git工作流](./git-workflow.png)
 
+
+### VIM git
+- G log 查看提交的日志
+- G diff 对比
