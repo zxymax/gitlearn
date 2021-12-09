@@ -85,3 +85,6 @@
 > > > 3). git add 文件名
 > > > 4). git commit -m "日志信息" 此时的commit 不能带具体文件名
 
+#### git工作流
+![alt Git工作流](./git-workflow.png)
+
