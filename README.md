@@ -1,11 +1,11 @@
-### Git [Git学习](https://www.youtube.com/watch?v=Bbtx90WtpAc&list=PLmOn9nNkQxJFISyrvKUk8OWg-Pzs1donX&index=2)
+#Plug 'junegunn/gv.vim'## Git [Git学习](https://www.youtube.com/watch?v=Bbtx90WtpAc&list=PLmOn9nNkQxJFISyrvKUk8OWg-Pzs1donX&index=2)
 
 #### 版本控制工具功能
 - 协同修改
 - 数据备份
 - 版本管理
 - 权限控制
-- 历史记录
+- 历史记录Plug 'junegunn/gv.vim'
 - 分支管理
 
 #### Git和代码托管中心
@@ -92,3 +92,10 @@
 ### VIM git
 - G log 查看提交的日志
 - G diff 对比
+- G add . 添加要提交的文件
+- G commit 提交
+- Gsplit HEAD~1:%
+- Gdiffsplit
+
+- `vim -d a b`  a和b文件内容对比 使用ctrl+w+J换行
+- `vim -O a.html b.html` 同时打开a.html b.html
